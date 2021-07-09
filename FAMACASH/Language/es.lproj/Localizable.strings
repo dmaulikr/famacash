@@ -1,0 +1,31 @@
+/* 
+ Localizables(Spanish).strings
+  TMDBChallenge
+
+  Created by Miguel Aquino on 08/07/21.
+  
+*/
+
+// MoviesVC
+"Movies" = "Películas";
+"now.playing" = "En cines";
+"in.theaters" = "Ahora en cines";
+"popular" = "Populares";
+"most.popular" = "Las más populares";
+"top.rated" = "Valorados";
+"top.rated.films" = "Las más valoradas";
+"now.playing.in.theathers" = "Now playing in theaters";
+"change.language" = "¿Deseas cambiar idioma?";
+"choose.language" = "Elige tu idioma";
+"english.language" = "Inglés";
+"spanish.language" = "Español";
+"cancel" = "Cancelar";
+"refresh.catalog" = "Refrescar Catálogo";
+
+"error" = "Error";
+"error.unknown" = "Ha ocurrido un error desconocido";
+"error.invalidURL" = "Por favor verifica la URL";
+"error.response" = "Respuesta invalida del servidor";
+"error.data" = "Información inválida recibida del servidor";
+"error.decode" = "No se puede decodificar información";
+"ok" = "Ok";
